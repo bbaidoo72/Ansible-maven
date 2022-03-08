@@ -21,7 +21,7 @@
 ## beta.example.org
 ## 192.168.1.100
 ## 192.168.1.110
-   10.0.0.169  ansible_ssh_user=root ansible_ssh_pass=admin
+   10.0.0.43  ansible_ssh_user=root ansible_ssh_pass=admin
 #-   10.0.0.200   ansible_port=2222 ansible_ssh_user=ubuntusrv 
 
    #10.0.0.150
